@@ -1,4 +1,4 @@
-# Hi, Eu sou Wendel! :vulcan_salute:
+# Hi, I'm Wendel! :vulcan_salute:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wendelsilva)](https://github.com/wendelsilva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wendel-silva-b0ba321a3/)](https://www.linkedin.com/in/wendel-silva-b0ba321a3/)
