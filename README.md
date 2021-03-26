@@ -7,7 +7,7 @@
 ## Sobre mim:diamond_shape_with_a_dot_inside:
 Um desenvolvedor Web apaixonado por programação e integrante da BlackShark uma equipe de frellancer que atua no desenvolvimento de soluções dotado de tecnologias como HTML, CSS, JavaScript, React e Django.
 
-## 🔧 Technologies & Tools
+## Technologies & Tools 🔧 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
