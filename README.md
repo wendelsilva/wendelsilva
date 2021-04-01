@@ -14,4 +14,4 @@ A web developer passionate about programming and a member of BlackShark, a frell
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Stylesheet-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-bootstrap-informational?style=flat&logo=bootstrap3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap3&logoColor=white&color=2bbc8a)
