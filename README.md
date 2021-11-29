@@ -25,7 +25,3 @@ A web developer passionate about programming and a member of BlackShark, a frell
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-![](https://github-readme-stats.vercel.app/api?wendelsilva={wendelsilva})
-![](https://github-readme-stats.vercel.app/api/top-langs/?wendelsilva={wendelsilva})
-![](https://github-readme-stats.vercel.app/api?wendelsilva={wendelsilva})
