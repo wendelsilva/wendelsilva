@@ -23,6 +23,8 @@ A web developer passionate about programming and a member of BlackShark, a frell
 ![](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
 ![](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## 👩‍💻 IDE [🔝](#welcome-badges-4-readmemd-profile)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 🖍📐 Design [🔝](#welcome-badges-4-readmemd-profile)
