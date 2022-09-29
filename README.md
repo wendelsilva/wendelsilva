@@ -35,3 +35,6 @@ A web developer passionate about programming and a member of BlackShark, a frell
 
 ## 🖍📐 Design [🔝](#welcome-badges-4-readmemd-profile)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## 💠 Badges [🔝](#welcome-badges-4-readmemd-profile)
+[![@lednew's Holopin board](https://holopin.io/api/user/board?user=lednew)](https://holopin.io/@lednew)
