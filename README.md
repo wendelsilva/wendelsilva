@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá✌️,<br><br>Graduando em engenharia da computação pela faculdade descomplica, desenvolvedor web há pouco mais de 1 ano, apaixonado por tecnologia, atualmente estou focado em desenvolvimento fullstack com React e Nodejs.<br><br>Quando não estou programando ou estudando, gosto de acompanhar conteúdos sobre finanças, empreendedorismo, jogos ou jogar alguma coisa com amigos.🕹️<br><br>💡 NeverStopLearnig
+Olá✌️,<br><br>Graduando em engenharia da computação pela faculdade descomplica, desenvolvedor web há pouco mais de 1 ano, apaixonado por tecnologia, atualmente estou focado em desenvolvimento fullstack com React e Nodejs.<br><br>Quando não estou programando ou estudando, gosto de acompanhar conteúdos sobre finanças, empreendedorismo, jogos ou jogar alguma coisa com amigos.🕹️<br><br>💡 NeverStopLearnig<br><br>------------------------------------<br>Hello✌️,<br><br>Graduating in computer engineering from Faculdade Descomplica, web developer for just over 1 year, passionate about technology, currently I'm focused on fullstack development with React and Nodejs.<br><br>When I'm not programming or studying, I like to follow content about finance, entrepreneurship, games or playing something with friends.🕹️<br><br>💡 NeverStopLearning
 
 
 ## 🌐 Socials:
